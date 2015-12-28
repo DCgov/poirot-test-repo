@@ -15,3 +15,5 @@ if result == []:
     print >>sys.stderr, "ERROR: %s" % error
 else:
     print result
+
+print("I agree, very frabjous")
